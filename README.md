@@ -7,14 +7,13 @@
 of the stocks.
 - Additionally, expected rate of return for each stock and histograms for daily returns of each stock.
 ### Run the project
-1.Clone the Repository: 
--Clone the project repository to your local machine using Git:
+ 
+- Clone the project repository to your local machine using Git:
     git clone https://github.com/yourusername/historical-stock-analysis.git
-2. **Navigate to Project Directory**: 
--Use the `cd` command to navigate into the project directory:
+- Navigate to Project Directory 
+Use the `cd` command to navigate into the project directory:
     cd Stock Analysis
-3. **Install Dependencies**: 
--Install the required Python dependencies using pip
+- Install Python Dependencies using pip
 pip install pathlib ruamel-yaml
 pip install yfinance
 ### Results 
