@@ -1,5 +1,5 @@
 # Stock Analysis
-## Project descriptiom
+## Project description
 - The goal of this project is to provide a tool for analyzing historical stock price data to gain insights into the performance of Microsoft , Amazon and Google.
 - The program calculates various financial metrics such as monthly average closing price, year-over-year percentage change and
   identifies the stock with the highest average volume.
@@ -14,8 +14,8 @@ of the stocks.
 Use the `cd` command to navigate into the project directory:
     cd Stock Analysis
 - Install Python Dependencies using pip
-pip install pathlib ruamel-yaml
-pip install yfinance
+  - pip install pathlib ruamel-yaml
+  - pip install yfinance
 ### Results 
 
 
