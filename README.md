@@ -6,7 +6,7 @@
 - Under data visualizations a line plot showing the closing prices of the stocks over time, a bar chart comparing the average closing prices of the stocks and a heatmap showing the correlation between the daily price movements
 of the stocks.
 - Additionally, expected rate of return for each stock and histograms for daily returns of each stock.
-### Run the project
+### Instructions to run the project
  
 - Clone the project repository to your local machine using Git:
     git clone https://github.com/yourusername/historical-stock-analysis.git
@@ -16,7 +16,6 @@ Use the `cd` command to navigate into the project directory:
 - Install Python Dependencies using pip
   - pip install pathlib ruamel-yaml
   - pip install yfinance
-### Results 
 
 
 
